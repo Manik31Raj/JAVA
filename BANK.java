@@ -86,7 +86,6 @@ class Bank
       public static void main(String a[])
        {
            Bank b=new Bank();
-           Bank b1=new Bank();
            b.open();
            b.check();
            b.Withdraw();
