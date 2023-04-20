@@ -89,7 +89,7 @@ class Bank
            Bank b1=new Bank();
            b.open();
            b.check();
-           b1.open();
-           b1.check();
+           b.Withdraw();
+           b.Deposit();
        }
  }
